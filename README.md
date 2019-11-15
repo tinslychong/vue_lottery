@@ -1,5 +1,6 @@
 # vue_lottery
  vue-cli3&element-ui lottery project
+ 
  vue-cli3&element-ui实现的在线抽奖模拟器,具备配置导出导入的功能
 
 效果预览:http://icelily.xyz/lottery
