@@ -11,6 +11,7 @@ npm install
 npm run dev
 
 修改src/view/lottery/index.vue的91行:const allcfgs_url="";//改为抽奖配置地址的url
+
 配置示例json
 {
 	"data": [{
@@ -26,6 +27,7 @@ npm run dev
 }
 
 游戏配置示例json(上面的yys.json)
+
 {"data":[{"name":"三星","value":"74"},{"name":"四星","value":"20"},{"name":"五星","value":"4.5"},{"name":"六星","value":"1.5"}]}
 
 3.build发布
