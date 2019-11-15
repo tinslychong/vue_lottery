@@ -9,6 +9,7 @@ npm install
 
 2.run运行
 npm run dev
+
 修改src/view/lottery/index.vue的91行:const allcfgs_url="";//改为抽奖配置地址的url
 配置示例json
 {
